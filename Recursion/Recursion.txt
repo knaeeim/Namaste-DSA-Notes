@@ -6,3 +6,7 @@ Recursion -> Function calls itself to solve smaller version of the same problem.
 2. Recursive Case :- part where function calls itself with modified argument.
 
 
+-> Real Life example of Recursion :- 
+1. Queue of the People :- 
+2. Comment Threads :-
+3. Organisational Hierachies :- 
